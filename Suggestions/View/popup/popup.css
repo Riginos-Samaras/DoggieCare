@@ -1,0 +1,34 @@
+
+element.style {
+left: 162px;
+z-index: 9999;
+opacity: 1;
+display: block;
+}
+#popup, .bMulti {
+min-height: 150px;txtblock
+}
+#popup, #popup2, .bMulti {
+
+		position: relative;
+	background-color: #fff;
+
+		width:80%;
+	height:auto;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0 0 25px 5px #999;
+	color: #111;
+	display: none;
+	min-width: 550px;
+	text-align:center;
+	padding: 25px;
+	margin-left:100px;
+	left:55%;
+	margin-top:10%;
+	display: block; opacity: 1;
+}
+
+#popup .logo {
+color: #2b91af;
+font: bold 325% 'Petrona',sans;
+}
